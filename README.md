@@ -68,3 +68,5 @@ dataset/
 
 where raw is the images with the mediapipe frame over a black background (cause i thought might be useful in training) and frame is the cropped image of hand.
 
+### Working
+![alt text](https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/Screenshot%202025-01-25%20205217.png)
