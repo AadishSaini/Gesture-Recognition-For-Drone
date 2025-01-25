@@ -7,8 +7,8 @@ Below are some sample images from the dataset used for training:
 ### Backward Gesture
 ![alt text](https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/backward/frame/frame_1.png)
 
-### Upward Gesture
-![alt text](https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/upward/frame/frame_1.png)
+### Forward Gesture
+![alt text](https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/forward/frame/frame_1.png)
 
 ### Up Gesture
 ![alt text](https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/up/frame/frame_1.png)
