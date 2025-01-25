@@ -42,7 +42,8 @@ Below are some sample images from the dataset used for training:
     <img src="https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/right/frame/frame_1.png" alt="Right Gesture" style="width: 32%;">
   </div>
 </div>
-### How to Run
+
+## How to Run
 
 1. Install the required dependencies:
    ```bash
