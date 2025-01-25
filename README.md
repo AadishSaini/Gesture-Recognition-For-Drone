@@ -9,30 +9,40 @@ train_model.py - the model training
 test.py - main python file
 final_model.h5 - the final model compiled
 
-
 ## Dataset Samples
 
 Below are some sample images from the dataset used for training:
 
-### Backward Gesture
-![alt text](https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/backward/frame/frame_1.png)
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <h3>Backward Gesture</h3>
+    <img src="https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/backward/frame/frame_1.png" alt="Backward Gesture" style="width: 32%;">
+  </div>
+  <div>
+    <h3>Forward Gesture</h3>
+    <img src="https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/forward/frame/frame_1.png" alt="Forward Gesture" style="width: 32%;">
+  </div>
+  <div>
+    <h3>Up Gesture</h3>
+    <img src="https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/up/frame/frame_1.png" alt="Up Gesture" style="width: 32%;">
+  </div>
+</div>
 
-### Forward Gesture
-![alt text](https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/forward/frame/frame_1.png)
-
-### Up Gesture
-![alt text](https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/up/frame/frame_1.png)
-
-### Down Gesture
-![alt text](https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/down/frame/frame_1.png)
-
-### Left Gesture
-![alt text](https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/left/frame/frame_1.png)
-
-### Right Gesture
-![alt text](https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/right/frame/frame_1.png)
-
-## How to Run
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <h3>Down Gesture</h3>
+    <img src="https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/down/frame/frame_1.png" alt="Down Gesture" style="width: 32%;">
+  </div>
+  <div>
+    <h3>Left Gesture</h3>
+    <img src="https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/left/frame/frame_1.png" alt="Left Gesture" style="width: 32%;">
+  </div>
+  <div>
+    <h3>Right Gesture</h3>
+    <img src="https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/right/frame/frame_1.png" alt="Right Gesture" style="width: 32%;">
+  </div>
+</div>
+### How to Run
 
 1. Install the required dependencies:
    ```bash
