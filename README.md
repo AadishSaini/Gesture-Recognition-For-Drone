@@ -1,5 +1,15 @@
 # Gesture Recognition For Drone
 
+
+### files in the project
+
+datagen.py - creates the dataset
+datagen_for_right.py - for flipping the left hand images to convert to right hand
+train_model.py - the model training 
+test.py - main python file
+final_model.h5 - the final model compiled
+
+
 ## Dataset Samples
 
 Below are some sample images from the dataset used for training:
