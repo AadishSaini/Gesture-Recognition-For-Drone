@@ -5,28 +5,22 @@
 Below are some sample images from the dataset used for training:
 
 ### Backward Gesture
-
-![alt text]\([https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/backward/frame/frame\_1.png](https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/backward/frame/frame_1.png))
+![alt text](https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/backward/frame/frame_1.png)
 
 ### Upward Gesture
-
-![alt text]\([https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/upward/frame/frame\_1.png](https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/backward/frame/frame_1.png))
+![alt text](https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/upward/frame/frame_1.png)
 
 ### Up Gesture
-
-![alt text]\([https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/up/frame/frame\_1.png](https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/backward/frame/frame_1.png))
+![alt text](https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/up/frame/frame_1.png)
 
 ### Down Gesture
-
-![alt text]\([https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/down/frame/frame\_1.png](https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/backward/frame/frame_1.png))
+![alt text](https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/down/frame/frame_1.png)
 
 ### Left Gesture
-
-![alt text]\([https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/left/frame/frame\_1.png](https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/backward/frame/frame_1.png))
+![alt text](https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/left/frame/frame_1.png)
 
 ### Right Gesture
-
-![alt text]\([https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/right/frame/frame\_1.png](https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/backward/frame/frame_1.png))
+![alt text](https://github.com/AadishSaini/Gesture-Recognition-For-Drone/blob/main/dataset/right/frame/frame_1.png)
 
 ## How to Run
 
